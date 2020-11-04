@@ -2,66 +2,66 @@
 <testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="120791" started-at="2020-11-04T11:56:48 EST" finished-at="2020-11-04T11:58:48 EST">
+  <suite name="Surefire suite" duration-ms="128278" started-at="2020-11-04T14:43:14 EST" finished-at="2020-11-04T14:45:23 EST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="120791" started-at="2020-11-04T11:56:48 EST" finished-at="2020-11-04T11:58:48 EST">
+    <test name="Surefire test" duration-ms="128278" started-at="2020-11-04T14:43:14 EST" finished-at="2020-11-04T14:45:23 EST">
       <class name="GUI_Testing.Teacher_Component_Test">
-        <test-method status="PASS" signature="Set_Up()[pri:0, instance:GUI_Testing.Teacher_Component_Test@731a74c]" name="Set_Up" is-config="true" duration-ms="8831" started-at="2020-11-04T11:56:48 EST" finished-at="2020-11-04T11:56:56 EST">
+        <test-method status="PASS" signature="Set_Up()[pri:0, instance:GUI_Testing.Teacher_Component_Test@4fe3c938]" name="Set_Up" is-config="true" duration-ms="9580" started-at="2020-11-04T14:43:14 EST" finished-at="2020-11-04T14:43:24 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Set_Up -->
-        <test-method status="PASS" signature="Teacher_Component_Testing()[pri:0, instance:GUI_Testing.Teacher_Component_Test@731a74c]" name="Teacher_Component_Testing" duration-ms="83194" started-at="2020-11-04T11:56:56 EST" finished-at="2020-11-04T11:58:20 EST">
+        <test-method status="PASS" signature="Teacher_Component_Testing()[pri:0, instance:GUI_Testing.Teacher_Component_Test@4fe3c938]" name="Teacher_Component_Testing" duration-ms="83116" started-at="2020-11-04T14:43:24 EST" finished-at="2020-11-04T14:44:47 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teacher_Component_Testing -->
-        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Teacher_Component_Test@731a74c]" name="Tear_Down" is-config="true" duration-ms="88" started-at="2020-11-04T11:58:20 EST" finished-at="2020-11-04T11:58:20 EST">
+        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Teacher_Component_Test@4fe3c938]" name="Tear_Down" is-config="true" duration-ms="85" started-at="2020-11-04T14:44:47 EST" finished-at="2020-11-04T14:44:47 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tear_Down -->
       </class> <!-- GUI_Testing.Teacher_Component_Test -->
-      <class name="GUI_Testing.Login_Page_Test">
-        <test-method status="PASS" signature="Set_up()[pri:0, instance:GUI_Testing.Login_Page_Test@1f28c152]" name="Set_up" is-config="true" duration-ms="1675" started-at="2020-11-04T11:58:45 EST" finished-at="2020-11-04T11:58:47 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Set_up -->
-        <test-method status="PASS" signature="LogInPage_Test()[pri:0, instance:GUI_Testing.Login_Page_Test@1f28c152]" name="LogInPage_Test" duration-ms="1621" started-at="2020-11-04T11:58:47 EST" finished-at="2020-11-04T11:58:48 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LogInPage_Test -->
-        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Login_Page_Test@1f28c152]" name="Tear_Down" is-config="true" duration-ms="86" started-at="2020-11-04T11:58:48 EST" finished-at="2020-11-04T11:58:48 EST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Tear_Down -->
-      </class> <!-- GUI_Testing.Login_Page_Test -->
       <class name="TestNG_Concept_Testing.Priority_Test">
-        <test-method status="PASS" signature="open_the_door()[pri:0, instance:TestNG_Concept_Testing.Priority_Test@7d907bac]" name="open_the_door" duration-ms="1" started-at="2020-11-04T11:58:48 EST" description="Open Door Test" finished-at="2020-11-04T11:58:48 EST">
+        <test-method status="PASS" signature="open_the_door()[pri:0, instance:TestNG_Concept_Testing.Priority_Test@71423665]" name="open_the_door" duration-ms="0" started-at="2020-11-04T14:45:23 EST" description="Open Door Test" finished-at="2020-11-04T14:45:23 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open_the_door -->
-        <test-method status="PASS" signature="close_the_door()[pri:1, instance:TestNG_Concept_Testing.Priority_Test@7d907bac]" name="close_the_door" duration-ms="0" started-at="2020-11-04T11:58:48 EST" description="Close Door Test" finished-at="2020-11-04T11:58:48 EST">
+        <test-method status="PASS" signature="close_the_door()[pri:1, instance:TestNG_Concept_Testing.Priority_Test@71423665]" name="close_the_door" duration-ms="0" started-at="2020-11-04T14:45:23 EST" description="Close Door Test" finished-at="2020-11-04T14:45:23 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_the_door -->
-        <test-method status="PASS" signature="seat_on_chair()[pri:2, instance:TestNG_Concept_Testing.Priority_Test@7d907bac]" name="seat_on_chair" duration-ms="0" started-at="2020-11-04T11:58:48 EST" description="Seat On Chair Test" finished-at="2020-11-04T11:58:48 EST">
+        <test-method status="PASS" signature="seat_on_chair()[pri:2, instance:TestNG_Concept_Testing.Priority_Test@71423665]" name="seat_on_chair" duration-ms="0" started-at="2020-11-04T14:45:23 EST" description="Seat On Chair Test" finished-at="2020-11-04T14:45:23 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- seat_on_chair -->
       </class> <!-- TestNG_Concept_Testing.Priority_Test -->
+      <class name="GUI_Testing.Login_Page_Test">
+        <test-method status="PASS" signature="Set_up()[pri:0, instance:GUI_Testing.Login_Page_Test@2ac273d3]" name="Set_up" is-config="true" duration-ms="2333" started-at="2020-11-04T14:45:16 EST" finished-at="2020-11-04T14:45:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_up -->
+        <test-method status="PASS" signature="LogInPage_Test()[pri:0, instance:GUI_Testing.Login_Page_Test@2ac273d3]" name="LogInPage_Test" duration-ms="4569" started-at="2020-11-04T14:45:18 EST" finished-at="2020-11-04T14:45:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInPage_Test -->
+        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Login_Page_Test@2ac273d3]" name="Tear_Down" is-config="true" duration-ms="86" started-at="2020-11-04T14:45:22 EST" finished-at="2020-11-04T14:45:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tear_Down -->
+      </class> <!-- GUI_Testing.Login_Page_Test -->
       <class name="GUI_Testing.Students_Component_Test">
-        <test-method status="PASS" signature="Set_Up()[pri:0, instance:GUI_Testing.Students_Component_Test@369f73a2]" name="Set_Up" is-config="true" duration-ms="5450" started-at="2020-11-04T11:58:20 EST" finished-at="2020-11-04T11:58:25 EST">
+        <test-method status="PASS" signature="Set_Up()[pri:0, instance:GUI_Testing.Students_Component_Test@5383967b]" name="Set_Up" is-config="true" duration-ms="9039" started-at="2020-11-04T14:44:47 EST" finished-at="2020-11-04T14:44:56 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Set_Up -->
-        <test-method status="PASS" signature="Students_Componen_Testing()[pri:0, instance:GUI_Testing.Students_Component_Test@369f73a2]" name="Students_Componen_Testing" duration-ms="19719" started-at="2020-11-04T11:58:25 EST" finished-at="2020-11-04T11:58:45 EST">
+        <test-method status="PASS" signature="Students_Componen_Testing()[pri:0, instance:GUI_Testing.Students_Component_Test@5383967b]" name="Students_Componen_Testing" duration-ms="19351" started-at="2020-11-04T14:44:56 EST" finished-at="2020-11-04T14:45:16 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Students_Componen_Testing -->
-        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Students_Component_Test@369f73a2]" name="Tear_Down" is-config="true" duration-ms="85" started-at="2020-11-04T11:58:45 EST" finished-at="2020-11-04T11:58:45 EST">
+        <test-method status="PASS" signature="Tear_Down()[pri:0, instance:GUI_Testing.Students_Component_Test@5383967b]" name="Tear_Down" is-config="true" duration-ms="86" started-at="2020-11-04T14:45:16 EST" finished-at="2020-11-04T14:45:16 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Tear_Down -->
       </class> <!-- GUI_Testing.Students_Component_Test -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
