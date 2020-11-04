@@ -1,0 +1,37 @@
+[
+	{
+		"city_name": "Sterling",
+		"state_name": "VA",
+		"last_name": "Muhtar",
+		"phone_number": "571-888-6661",
+		"first_name": "Halmurat"
+	},
+	{
+		"city_name": "Fairfax",
+		"state_name": "VA",
+		"last_name": "Arken",
+		"phone_number": "571-858-8584",
+		"first_name": "Delyar"
+	},
+	{
+		"city_name": "Centerville",
+		"state_name": "VA",
+		"last_name": "Arken",
+		"phone_number": "571-999-7445",
+		"first_name": "Elyar"
+	},
+	{
+		"city_name": "Centerville",
+		"state_name": "VA",
+		"last_name": "Urumqi",
+		"phone_number": "571-844-8493",
+		"first_name": "Kuddus"
+	},
+	{
+		"city_name": "Sterling",
+		"state_name": "VA",
+		"last_name": "Shahid",
+		"phone_number": "702-332-3232",
+		"first_name": "Arslan"
+	}
+]

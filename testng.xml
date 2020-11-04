@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+
+		<parameter name="browser" value="chrome" />
+		<parameter name="username" value="hr" />
+		<parameter name="password" value="hr" />
+		<parameter name="url" value="http://cybertektraining.com/login.html" />
+		<parameter name="silenceMode" value="no" />
+
+	<!-- 	<classes>
+
+			<class name="TestNG_Concept_Testing.Dependens_On_Method" /
+			<class name="TestNG_Concept_Testing.Priority_Test" /
+			<class name="TestNG_Concept_Testing.Parameterization_Testing" />
+
+		</classes>
+ -->	
+ 
+ <packages>
+ 
+ <package name="GUI_Testing"></package>
+ 
+ </packages>
+ 
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
